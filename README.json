@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Electron",
+          "description": "a Node.js and Chromium runtime to build cross platform desktop apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:06:34Z",
+            "owner": "electron",
+            "repo": "electron",
+            "stars": 122489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nw.js",
+          "description": "a Node.js and Chromium runtime to build cross platform desktop apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T16:32:49Z",
+            "owner": "nwjs",
+            "repo": "nw.js",
+            "stars": 41181
+          }
+        }
+      ],
+      "title": "Chrome"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "carlo",
+          "description": "a runtime to build desktop apps using the system's installed version of Google Chrome",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-29T20:42:07Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "carlo",
+            "stars": 9252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neutralino",
+          "description": "a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:31:37Z",
+            "owner": "neutralinojs",
+            "repo": "neutralinojs",
+            "stars": 8607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zero-native",
+          "description": "a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-13T07:25:36Z",
+            "owner": "vercel-labs",
+            "repo": "native",
+            "stars": 7413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultralight",
+          "description": "lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2024-04-22T20:46:31Z",
+            "owner": "ultralight-ux",
+            "repo": "Ultralight",
+            "stars": 4998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tauri",
+          "description": "a runtime using the system's native webview with Rust backend (Windows, macOS, Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T07:51:57Z",
+            "owner": "tauri-apps",
+            "repo": "wry",
+            "stars": 4915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electrino",
+          "description": "a runtime to build desktop apps using the system's own web browser (macOS only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T18:00:46Z",
+            "owner": "pojala",
+            "repo": "electrino",
+            "stars": 4397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeskGap",
+          "description": "a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-03-26T02:25:38Z",
+            "owner": "wan9chi",
+            "repo": "DeskGap",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deno_webview",
+          "description": "This project provides deno bindings for webview using the webview rust bindings. Currently supports Linux & Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T09:19:36Z",
+            "owner": "webview",
+            "repo": "webview_deno",
+            "stars": 1592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graffiti",
+          "description": "build desktop apps with react-native API, render them on GPU using Servo WebRender (Linux, macOS, and Windows)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2023-11-08T17:06:06Z",
+            "owner": "cztomsik",
+            "repo": "graffiti",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quark Shell",
+          "description": "a runtime to build desktop apps using the system's own web browser (macOS only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-04-15T07:38:54Z",
+            "owner": "HackPlan",
+            "repo": "quark-shell-mac",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azula",
+          "description": "a GPU accelerated HTML GUI for native JavaScript applications (Windows only, based on Ultralight)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-20T14:48:29Z",
+            "owner": "maierfelix",
+            "repo": "azula",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quark",
+          "description": "a runtime to build desktop apps using the system's own web browser (Windows only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-07T02:00:12Z",
+            "owner": "jscherer92",
+            "repo": "Quark",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vuido",
+          "description": "a Vue.js environment to build cross platform native desktop apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T22:54:33Z",
+            "owner": "mimecorg",
+            "repo": "vuido",
+            "stars": 6056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libui-node",
+          "description": "Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-22T16:46:18Z",
+            "owner": "parro-it",
+            "repo": "libui-node",
+            "stars": 1874
+          }
+        }
+      ],
+      "title": "LibUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "proton-native",
+          "description": "a React.js environment to build cross platform native desktop apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T02:21:10Z",
+            "owner": "kusti8",
+            "repo": "proton-native",
+            "stars": 10887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeGUI",
+          "description": "a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-03T17:50:16Z",
+            "owner": "nodegui",
+            "repo": "nodegui",
+            "stars": 9226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brig",
+          "description": "a user interface toolkit based on Qt to build cross-platform apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-10-02T07:38:16Z",
+            "owner": "BrigJS",
+            "repo": "brig",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quark",
+          "description": "create cross platform desktop apps with Node.js and QML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-04-10T16:43:41Z",
+            "owner": "freemountain",
+            "repo": "quark",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Qt"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yoga",
+          "description": "a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:59:04Z",
+            "owner": "react",
+            "repo": "yoga",
+            "stars": 18870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yue",
+          "description": "create cross platform desktop apps with Node.js and flexbox (via yoga)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-24T11:00:07Z",
+            "owner": "yue",
+            "repo": "yue",
+            "stars": 3614
+          }
+        }
+      ],
+      "title": "Flexbox"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "menubar",
+          "description": "easily create a menubar Electron app (macOS only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T13:59:13Z",
+            "owner": "max-mapper",
+            "repo": "menubar",
+            "stars": 6779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trayballoon",
+          "description": "a system tray balloon on Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-17T12:00:31Z",
+            "owner": "sindresorhus",
+            "repo": "trayballoon",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "positron-bar",
+          "description": "Electron bar for (Linux only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-09T21:27:19Z",
+            "owner": "ajrouvoet",
+            "repo": "positron-bar",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systray2",
+          "description": "a system tray icon and menu (Windows, macOS, Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-16T18:06:10Z",
+            "owner": "felixhao28",
+            "repo": "node-systray",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtray",
+          "description": "create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-07-25T06:05:03Z",
+            "owner": "tetsuo",
+            "repo": "xtray",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "System Tray"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pkg",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-03T01:38:16Z",
+            "owner": "vercel",
+            "repo": "pkg",
+            "stars": 24360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nexe",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T04:50:47Z",
+            "owner": "nexe",
+            "repo": "nexe",
+            "stars": 13571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nectarjs",
+          "description": "a cli which compiles your Node.js app into a single executable (Linux, Windows, WebAssembly, Arduino)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-25T06:57:26Z",
+            "owner": "NerdLang",
+            "repo": "nerd",
+            "stars": 3612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-packer",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-07T21:04:07Z",
+            "owner": "pmq20",
+            "repo": "node-packer",
+            "stars": 3066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enclose",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-24T13:31:03Z",
+            "owner": "igorklopov",
+            "repo": "enclose",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caxa",
+          "description": "a cli (and API) which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-11-21T13:17:38Z",
+            "owner": "leafac",
+            "repo": "caxa",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boxednode",
+          "description": "a cli (and API) which compiles your Node.js file into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T22:13:54Z",
+            "owner": "mongodb-js",
+            "repo": "boxednode",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nbin",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-05-10T03:44:26Z",
+            "owner": "coder",
+            "repo": "nbin",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "launchui-packager",
+          "description": "an API which packages GUI Node.js applications (Linux, Windows, macOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-24T20:47:05Z",
+            "owner": "mimecorg",
+            "repo": "launchui-packager",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lone",
+          "description": "a cli which compiles your Node.js app into a single executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-20T18:19:27Z",
+            "owner": "imlucas",
+            "repo": "lone",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Packaging"
+    },
+    {
+      "description": "To the extent possible under law, styfle has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:40:40.801Z",
+    "original_repository": "styfle/awesome-desktop-js",
+    "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
+    "enhanced_repository": "enhansome/enhansome-desktop-js",
+    "enhanced_repository_description": null,
+    "title": "Awesome Desktop JS with stars"
+  }
+}
