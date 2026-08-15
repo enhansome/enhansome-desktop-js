@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T08:26:55Z",
+            "last_commit": "2026-08-15T06:41:21Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122495
+            "stars": 122503
           }
         },
         {
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T00:32:19Z",
+            "last_commit": "2026-08-15T00:21:21Z",
             "owner": "neutralinojs",
             "repo": "neutralinojs",
             "stars": 8609
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-14T06:42:47Z",
+            "last_commit": "2026-08-15T05:52:35Z",
             "owner": "vercel-labs",
             "repo": "native",
-            "stars": 7429
+            "stars": 7437
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2024-04-22T20:46:31Z",
             "owner": "ultralight-ux",
             "repo": "Ultralight",
-            "stars": 5000
+            "stars": 5001
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-13T11:07:25Z",
             "owner": "tauri-apps",
             "repo": "wry",
-            "stars": 4919
+            "stars": 4920
           }
         },
         {
@@ -320,10 +320,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T16:59:04Z",
+            "last_commit": "2026-08-14T14:02:35Z",
             "owner": "react",
             "repo": "yoga",
-            "stars": 18872
+            "stars": 18873
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2024-01-03T01:38:16Z",
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24359
+            "stars": 24358
           }
         },
         {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:34:56.715Z",
+    "last_updated": "2026-08-15T07:38:54.088Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
     "enhanced_repository": "enhansome/enhansome-desktop-js",
