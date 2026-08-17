@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T07:24:10Z",
+            "last_commit": "2026-08-17T07:50:22Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122515
+            "stars": 122523
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T21:16:06Z",
+            "last_commit": "2026-08-17T04:38:09Z",
             "owner": "nwjs",
             "repo": "nw.js",
-            "stars": 41185
+            "stars": 41161
           }
         }
       ],
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T00:20:27Z",
+            "last_commit": "2026-08-17T00:19:46Z",
             "owner": "neutralinojs",
             "repo": "neutralinojs",
-            "stars": 8610
+            "stars": 8611
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-16T04:24:49Z",
+            "last_commit": "2026-08-17T04:27:10Z",
             "owner": "vercel-labs",
             "repo": "native",
-            "stars": 7483
+            "stars": 7498
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T11:07:25Z",
+            "last_commit": "2026-08-17T07:53:21Z",
             "owner": "tauri-apps",
             "repo": "wry",
             "stars": 4921
@@ -275,7 +275,7 @@
             "last_commit": "2026-05-03T17:50:16Z",
             "owner": "nodegui",
             "repo": "nodegui",
-            "stars": 9226
+            "stars": 9225
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-14T14:02:35Z",
             "owner": "react",
             "repo": "yoga",
-            "stars": 18872
+            "stars": 18864
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-07-30T13:59:13Z",
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6779
+            "stars": 6778
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2024-01-03T01:38:16Z",
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24357
+            "stars": 24356
           }
         },
         {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:41:07.799Z",
+    "last_updated": "2026-08-17T07:58:26.191Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
     "enhanced_repository": "enhansome/enhansome-desktop-js",
