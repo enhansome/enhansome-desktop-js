@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-19T07:42:59Z",
+                "last_commit": "2026-08-19T11:11:13Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122566
+                "stars": 122573
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-18T15:29:37Z",
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7515
+                "stars": 7516
               }
             },
             {
@@ -467,7 +467,7 @@
             "last_commit": "2024-01-03T01:38:16Z",
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24354
+            "stars": 24355
           }
         },
         {
@@ -610,8 +610,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:50:42.505Z",
+    "last_updated": "2026-08-19T12:26:21.452Z",
     "original_repository": "styfle/awesome-desktop-js",
+    "original_repository_id": 136332742,
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
     "enhanced_repository": "enhansome/enhansome-desktop-js",
     "enhanced_repository_description": null,
