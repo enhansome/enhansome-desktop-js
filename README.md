@@ -14,20 +14,20 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Chrome
 
-* [Electron](https://github.com/electron/electron) ⭐ 122,573 | 🐛 831 | 🌐 C++ | 📅 2026-08-19 - a Node.js and Chromium runtime to build cross platform desktop apps
-* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,161 | 🐛 901 | 🌐 JavaScript | 📅 2026-08-19 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [Electron](https://github.com/electron/electron) ⭐ 122,593 | 🐛 821 | 🌐 C++ | 📅 2026-08-20 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,161 | 🐛 902 | 🌐 JavaScript | 📅 2026-08-19 - a Node.js and Chromium runtime to build cross platform desktop apps
 
 ### Web
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo) ⚠️ Archived - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,611 | 🐛 176 | 🌐 C | 📅 2026-08-19 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
-* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,516 | 🐛 139 | 🌐 Zig | 📅 2026-08-18 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,613 | 🐛 177 | 🌐 C | 📅 2026-08-20 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
+* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,523 | 🐛 140 | 🌐 Zig | 📅 2026-08-19 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
 * [Ultralight](https://github.com/ultralight-ux/Ultralight) ⭐ 5,000 | 🐛 281 | 🌐 CMake | 📅 2024-04-22 - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
 * [Tauri](https://tauri.app/) - a runtime using the system's native [webview](https://github.com/tauri-apps/wry) ⭐ 4,925 | 🐛 174 | 🌐 Rust | 📅 2026-08-18 with Rust backend (Windows, macOS, Linux)
 * [Electrino](https://github.com/pojala/electrino) ⭐ 4,396 | 🐛 21 | 🌐 C# | 📅 2022-12-07 - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [DeskGap](https://github.com/patr0nus/DeskGap) ⚠️ Archived - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
-* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,592 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 108,259 | 🐛 1,505 | 🌐 Rust | 📅 2026-08-19 bindings for
-  [webview](https://github.com/zserge/webview) ⭐ 14,203 | 🐛 210 | 🌐 C++ | 📅 2026-03-09 using the
+* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,592 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 108,265 | 🐛 1,508 | 🌐 Rust | 📅 2026-08-19 bindings for
+  [webview](https://github.com/zserge/webview) ⭐ 14,204 | 🐛 210 | 🌐 C++ | 📅 2026-03-09 using the
   [webview rust bindings](https://github.com/Boscop/web-view) ⭐ 1,951 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09. Currently supports Linux & Windows.
 * [graffiti](https://github.com/cztomsik/graffiti) ⭐ 932 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) ⭐ 3,373 | 🐛 192 | 🌐 Rust | 📅 2026-08-16 (Linux, macOS, and Windows)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) ⭐ 910 | 🐛 13 | 🌐 Objective-C | 📅 2020-04-15 - a runtime to build desktop apps using the system's own web browser (macOS only)
@@ -46,18 +46,18 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 ### Qt
 
 * [proton-native](https://github.com/kusti8/proton-native) ⭐ 10,885 | 🐛 89 | 🌐 TypeScript | 📅 2023-01-07 a React.js environment to build cross platform native desktop apps
-* [NodeGUI](https://github.com/nodegui/nodegui) ⭐ 9,226 | 🐛 97 | 🌐 C++ | 📅 2026-05-03 - a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS
+* [NodeGUI](https://github.com/nodegui/nodegui) ⭐ 9,227 | 🐛 97 | 🌐 C++ | 📅 2026-05-03 - a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS
 * [Brig](https://github.com/BrigJS/brig) ⭐ 312 | 🐛 10 | 🌐 C++ | 📅 2017-10-02 - a user interface toolkit based on Qt to build cross-platform apps
 * [Quark](https://github.com/freemountain/quark/) ⭐ 19 | 🐛 4 | 🌐 C++ | 📅 2019-04-10 - create cross platform desktop apps with Node.js and QML
 
 ### Flexbox
 
-* [Yoga](https://github.com/facebook/yoga) ⭐ 18,869 | 🐛 164 | 🌐 C++ | 📅 2026-08-17 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
+* [Yoga](https://github.com/facebook/yoga) ⭐ 18,873 | 🐛 165 | 🌐 C++ | 📅 2026-08-17 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
 * [Yue](https://github.com/yue/yue) ⭐ 3,614 | 🐛 13 | 🌐 C++ | 📅 2025-01-24 - create cross platform desktop apps with Node.js and flexbox (via yoga)
 
 ## System Tray
 
-* [menubar](https://github.com/maxogden/menubar) ⭐ 6,778 | 🐛 76 | 🌐 TypeScript | 📅 2026-07-30 - easily create a menubar Electron app (macOS only)
+* [menubar](https://github.com/maxogden/menubar) ⭐ 6,777 | 🐛 76 | 🌐 TypeScript | 📅 2026-07-30 - easily create a menubar Electron app (macOS only)
 * [trayballoon](https://github.com/sindresorhus/trayballoon) ⭐ 162 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-17 - a system tray balloon on Windows
 * [positron-bar](https://github.com/ElessarWebb/positron-bar) ⭐ 57 | 🐛 4 | 🌐 JavaScript | 📅 2016-04-09 - Electron bar for (Linux only)
 * [systray2](https://github.com/felixhao28/node-systray) ⭐ 40 | 🐛 4 | 🌐 TypeScript | 📅 2023-05-16 - a system tray icon and menu (Windows, macOS, Linux)
@@ -84,4 +84,4 @@ To the extent possible under law, styfle has waived all copyright and related or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

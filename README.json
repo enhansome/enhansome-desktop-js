@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:11:13Z",
+                "last_commit": "2026-08-20T05:31:17Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122573
+                "stars": 122593
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 138368259,
                 "language": "C",
-                "last_commit": "2026-08-19T01:22:30Z",
+                "last_commit": "2026-08-20T07:13:35Z",
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8611
+                "stars": 8613
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 1233290067,
                 "language": "Zig",
-                "last_commit": "2026-08-18T15:29:37Z",
+                "last_commit": "2026-08-19T20:33:06Z",
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7516
+                "stars": 7523
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-05-03T17:50:16Z",
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9227
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-17T08:22:42Z",
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18869
+                "stars": 18873
               }
             },
             {
@@ -386,7 +386,7 @@
             "last_commit": "2026-07-30T13:59:13Z",
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6778
+            "stars": 6777
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2024-01-03T01:38:16Z",
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24355
+            "stars": 24353
           }
         },
         {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:21.452Z",
+    "last_updated": "2026-08-20T07:52:48.279Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_id": 136332742,
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
