@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-21T07:47:28Z",
+                "last_commit": "2026-08-22T07:32:14Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122617
+                "stars": 122640
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 138368259,
                 "language": "C",
-                "last_commit": "2026-08-21T01:25:25Z",
+                "last_commit": "2026-08-22T00:20:13Z",
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8611
+                "stars": 8612
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 1233290067,
                 "language": "Zig",
-                "last_commit": "2026-08-19T20:33:06Z",
+                "last_commit": "2026-08-22T07:33:07Z",
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7534
+                "stars": 7543
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-04-22T20:46:31Z",
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5001
+                "stars": 5003
               }
             },
             {
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 279089942,
                 "language": "Rust",
-                "last_commit": "2026-08-18T04:05:07Z",
+                "last_commit": "2026-08-22T05:00:37Z",
                 "owner": "tauri-apps",
                 "repo": "wry",
                 "stars": 4926
@@ -241,7 +241,7 @@
                 "last_commit": "2023-03-01T22:54:33Z",
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6055
+                "stars": 6054
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2023-01-07T02:21:10Z",
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10886
+                "stars": 10885
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-17T08:22:42Z",
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18877
+                "stars": 18878
               }
             },
             {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:53:28.557Z",
+    "last_updated": "2026-08-22T07:40:55.312Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_id": 136332742,
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
