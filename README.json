@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:54:27Z",
+                "last_commit": "2026-08-24T14:04:30Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122676
+                "stars": 122687
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 1233290067,
                 "language": "Zig",
-                "last_commit": "2026-08-24T07:47:34Z",
+                "last_commit": "2026-08-24T13:41:33Z",
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7561
+                "stars": 7562
               }
             },
             {
@@ -342,10 +342,10 @@
                 "archived": false,
                 "id": 18503721,
                 "language": "C++",
-                "last_commit": "2026-08-17T08:22:42Z",
+                "last_commit": "2026-08-24T10:51:31Z",
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18882
+                "stars": 18884
               }
             },
             {
@@ -482,7 +482,7 @@
             "last_commit": "2026-03-05T04:50:47Z",
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13571
+            "stars": 13572
           }
         },
         {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:43.385Z",
+    "last_updated": "2026-08-24T14:16:43.780Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_id": 136332742,
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
