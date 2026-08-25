@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:34:09Z",
+                "last_commit": "2026-08-25T07:52:33Z",
                 "owner": "electron",
                 "repo": "electron",
                 "stars": 122697
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:20.002Z",
+    "last_updated": "2026-08-25T07:54:38.526Z",
     "original_repository": "styfle/awesome-desktop-js",
     "original_repository_id": 136332742,
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
