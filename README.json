@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:56:12Z",
+                "last_commit": "2026-08-29T13:00:51Z",
                 "open_issues": 753,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122774,
+                "stars": 122781,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -49,7 +49,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-19T04:08:07Z",
-                "open_issues": 904,
+                "open_issues": 905,
                 "owner": "nwjs",
                 "repo": "nw.js",
                 "stars": 41160,
@@ -138,7 +138,7 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:31:08Z",
-                "open_issues": 150,
+                "open_issues": 149,
                 "owner": "vercel-labs",
                 "repo": "native",
                 "stars": 7592,
@@ -162,7 +162,7 @@
                 "open_issues": 281,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5008,
+                "stars": 5009,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -199,7 +199,7 @@
                 "open_issues": 180,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4933,
+                "stars": 4934,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -567,7 +567,7 @@
                 "open_issues": 169,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18896,
+                "stars": 18897,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -731,7 +731,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24351,
+            "stars": 24352,
             "topics": [
               "binaries",
               "cli",
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:56.621Z",
+    "last_updated": "2026-08-29T13:08:25.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
