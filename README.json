@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+                "homepage": "https://electronjs.org",
                 "id": 9384267,
                 "language": "C++",
-                "last_commit": "2026-08-28T19:14:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:56:12Z",
+                "open_issues": 753,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122768
+                "stars": 122774,
+                "topics": [
+                  "c-plus-plus",
+                  "chrome",
+                  "css",
+                  "electron",
+                  "html",
+                  "javascript",
+                  "nodejs",
+                  "v8",
+                  "works-with-codespaces"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -28,12 +43,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+                "homepage": "https://nwjs.io",
                 "id": 3100121,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T04:08:07Z",
+                "open_issues": 904,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41160
+                "stars": 41160,
+                "topics": [
+                  "desktop",
+                  "javascript",
+                  "node-webkit",
+                  "nodejs",
+                  "nwjs",
+                  "web-application-framework"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             }
@@ -51,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web rendering surface for Node applications",
+                "homepage": null,
                 "id": 155095613,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-29T20:42:07Z",
+                "open_issues": 57,
                 "owner": "GoogleChromeLabs",
                 "repo": "carlo",
-                "stars": 9250
+                "stars": 9250,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -67,12 +99,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable and lightweight cross-platform desktop application development framework",
+                "homepage": "https://neutralino.js.org",
                 "id": 138368259,
                 "language": "C",
-                "last_commit": "2026-08-28T03:07:21Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:37:37Z",
+                "open_issues": 179,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8615
+                "stars": 8615,
+                "topics": [
+                  "c-plus-plus",
+                  "cross-platform",
+                  "css",
+                  "framework",
+                  "hacktoberfest",
+                  "html",
+                  "http-server",
+                  "javascript",
+                  "json",
+                  "native-development",
+                  "neutralinojs"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -83,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for building native desktop apps",
+                "homepage": "https://native-sdk.dev",
                 "id": 1233290067,
                 "language": "Zig",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:31:08Z",
+                "open_issues": 150,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7590
+                "stars": 7592,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -99,12 +153,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, high-performance HTML renderer for game and app developers.",
+                "homepage": "https://ultralig.ht",
                 "id": 143963119,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2024-04-22T20:46:31Z",
+                "open_issues": 281,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5007
+                "stars": 5008,
+                "topics": [
+                  "cross-platform",
+                  "desktop-apps",
+                  "directx-11",
+                  "game-development",
+                  "gamedev",
+                  "games",
+                  "gpu",
+                  "html-renderer",
+                  "linux",
+                  "macos",
+                  "metal",
+                  "opengl",
+                  "ultralight",
+                  "webkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -115,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform WebView library in Rust for Tauri.",
+                "homepage": null,
                 "id": 279089942,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:23:34Z",
+                "open_issues": 180,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4933
+                "stars": 4933,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -131,12 +211,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop runtime for apps built on web technologies, using the system's own web browser engine",
+                "homepage": null,
                 "id": 90042534,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-07T18:00:46Z",
+                "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4396
+                "stars": 4396,
+                "topics": [
+                  "desktop",
+                  "electron",
+                  "electronjs",
+                  "javascript",
+                  "macos",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -147,12 +239,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cross-platform desktop app framework based on Node.js and the system webview",
+                "homepage": "https://deskgap.com/",
                 "id": 167922316,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-03-26T02:25:38Z",
+                "open_issues": 58,
                 "owner": "wan9chi",
                 "repo": "DeskGap",
-                "stars": 1813
+                "stars": 1813,
+                "topics": [
+                  "cpp",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "nodejs",
+                  "typescript",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -163,12 +268,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs",
+                "homepage": "https://deno.land/x/webview",
                 "id": 245254578,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-25T09:19:36Z",
+                "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "deno",
+                  "deno-bindings",
+                  "deno-module",
+                  "deno-plugin",
+                  "deno-plugins",
+                  "deno-webview",
+                  "gui",
+                  "hacktoberfest",
+                  "typescript",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -179,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML/CSS engine for node.js and deno.",
+                "homepage": "http://tomsik.cz/graffiti",
                 "id": 154177632,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2023-11-08T17:06:06Z",
+                "open_issues": 2,
                 "owner": "cztomsik",
                 "repo": "graffiti",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -195,12 +321,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quark Shell for Mac helps web developers to create native-like Mac menubar app using HTML and JavaScript without writing any native code.",
+                "homepage": null,
                 "id": 18312828,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2020-04-15T07:38:54Z",
+                "open_issues": 13,
                 "owner": "HackPlan",
                 "repo": "quark-shell-mac",
-                "stars": 910
+                "stars": 910,
+                "topics": [
+                  "mac",
+                  "menubar",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -211,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight GPU accelerated HTML GUI for native JavaScript",
+                "homepage": "https://maierfelix.github.io/azula",
                 "id": 215633985,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-10-20T14:48:29Z",
+                "open_issues": 4,
                 "owner": "maierfelix",
                 "repo": "azula",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -227,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Applications with browser technologies using the native engine in your OS.",
+                "homepage": null,
                 "id": 125679764,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-01-07T02:00:12Z",
+                "open_issues": 6,
                 "owner": "jscherer92",
                 "repo": "Quark",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             }
@@ -250,12 +395,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native desktop applications using Vue.js.",
+                "homepage": "https://vuido.mimec.org/",
                 "id": 133851398,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T22:54:33Z",
+                "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6053
+                "stars": 6052,
+                "topics": [
+                  "desktop",
+                  "libui",
+                  "vue",
+                  "vuido"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -266,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node bindings for libui, an awesome native UI library for Unix, OSX and Windows",
+                "homepage": null,
                 "id": 59367691,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-07-22T16:46:18Z",
+                "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1873
+                "stars": 1873,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             }
@@ -289,12 +449,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React environment for cross platform desktop apps",
+                "homepage": "https://proton-native.js.org",
                 "id": 111610659,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T02:21:10Z",
+                "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10885
+                "stars": 10885,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "js",
+                  "native",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -305,12 +476,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+                "homepage": "http://docs.nodegui.org",
                 "id": 186662363,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
+                "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9226,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "gui",
+                  "javascript",
+                  "nodejs",
+                  "openlibrary",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -321,12 +505,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User Interface Toolkits for Node.js",
+                "homepage": null,
                 "id": 15181313,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-10-02T07:38:16Z",
+                "open_issues": 10,
                 "owner": "BrigJS",
                 "repo": "brig",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "c-plus-plus",
+                  "nodejs",
+                  "qml"
+                ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -337,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 73829293,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-10T16:43:41Z",
+                "open_issues": 4,
                 "owner": "freemountain",
                 "repo": "quark",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             }
@@ -360,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yoga is an embeddable layout engine targeting web standards.",
+                "homepage": "https://yogalayout.dev/",
                 "id": 18503721,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:32:51Z",
+                "open_issues": 169,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18897
+                "stars": 18896,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             },
@@ -376,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for creating native cross-platform GUI apps",
+                "homepage": "https://libyue.com",
                 "id": 65122227,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-01-24T11:00:07Z",
+                "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3614
+                "stars": 3614,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
             }
@@ -403,12 +611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "➖ high level way to create menubar desktop applications with electron",
+            "homepage": null,
             "id": 32754312,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-30T13:59:13Z",
+            "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6780
+            "stars": 6780,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -419,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a trayballoon on Windows",
+            "homepage": null,
             "id": 26727416,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-17T12:00:31Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "trayballoon",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -435,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Electron bar for your linux desktop!",
+            "homepage": null,
             "id": 52205693,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-09T21:27:19Z",
+            "open_issues": 4,
             "owner": "ajrouvoet",
             "repo": "positron-bar",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -451,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform systray library for nodejs.",
+            "homepage": "https://www.npmjs.com/package/systray2",
             "id": 309557922,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-16T18:06:10Z",
+            "open_issues": 4,
             "owner": "felixhao28",
             "repo": "node-systray",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -467,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS tray icon helper for Go",
+            "homepage": null,
             "id": 39661529,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2025-07-25T06:05:03Z",
+            "open_issues": 0,
             "owner": "tetsuo",
             "repo": "xtray",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         }
@@ -489,12 +722,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Package your Node.js project into an executable",
+            "homepage": "https://npmjs.com/pkg",
             "id": 65233633,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-03T01:38:16Z",
+            "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24351
+            "stars": 24351,
+            "topics": [
+              "binaries",
+              "cli",
+              "compiler",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -505,12 +748,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎉 create a single executable out of your node.js apps",
+            "homepage": null,
             "id": 2857233,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-05T04:50:47Z",
+            "open_issues": 164,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13574
+            "stars": 13574,
+            "topics": [
+              "binaries",
+              "binary",
+              "bundle",
+              "bundler",
+              "cli",
+              "executable",
+              "javascript",
+              "nexe",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -521,12 +779,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.",
+            "homepage": "https://nectarjs.com",
             "id": 78945412,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-01-25T06:57:26Z",
+            "open_issues": 16,
             "owner": "NerdLang",
             "repo": "nerd",
-            "stars": 3613
+            "stars": 3613,
+            "topics": [
+              "arduino",
+              "compilation",
+              "js",
+              "nodejs",
+              "raspberry",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -537,12 +807,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packing your Node.js application into a single executable.",
+            "homepage": null,
             "id": 70484217,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-01-07T21:04:07Z",
+            "open_issues": 100,
             "owner": "pmq20",
             "repo": "node-packer",
-            "stars": 3066
+            "stars": 3066,
+            "topics": [
+              "enclose-io",
+              "libsquash",
+              "linux",
+              "macos",
+              "nodejs",
+              "squashfs",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -553,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile your Node.js project into an executable",
+            "homepage": "http://enclosejs.com",
             "id": 29072583,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-24T13:31:03Z",
+            "open_issues": 11,
             "owner": "igorklopov",
             "repo": "enclose",
-            "stars": 934
+            "stars": 934,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -569,12 +857,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📦 Package Node.js applications into executable binaries 📦",
+            "homepage": "https://npm.im/caxa",
             "id": 338335614,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-21T13:17:38Z",
+            "open_issues": 0,
             "owner": "leafac",
             "repo": "caxa",
-            "stars": 699
+            "stars": 699,
+            "topics": [
+              "linux",
+              "macos",
+              "native-modules",
+              "nodejs",
+              "packaging",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -585,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 boxednode – Ship a JS file with Node.js in a box",
+            "homepage": null,
             "id": 297444810,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T22:13:54Z",
+            "open_issues": 4,
             "owner": "mongodb-js",
             "repo": "boxednode",
-            "stars": 657
+            "stars": 657,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -601,12 +906,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast and robust node.js binary compiler.",
+            "homepage": null,
             "id": 176977655,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-10T03:44:26Z",
+            "open_issues": 16,
             "owner": "coder",
             "repo": "nbin",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "binaries",
+              "compiler",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -617,12 +931,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package applications using LaunchUI for Windows, Linux and OS X.",
+            "homepage": null,
             "id": 135565000,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-24T20:47:05Z",
+            "open_issues": 5,
             "owner": "mimecorg",
             "repo": "launchui-packager",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "desktop",
+              "libui",
+              "node",
+              "packager"
+            ]
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         },
@@ -633,12 +957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn node.js apps into standalone executables",
+            "homepage": null,
             "id": 17383235,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-20T18:19:27Z",
+            "open_issues": 0,
             "owner": "imlucas",
             "repo": "lone",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
         }
@@ -647,15 +976,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:24:11.350Z",
+    "last_updated": "2026-08-29T04:38:56.621Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
+      "homepage": "https://styfle.dev/projects/awesome-desktop-js",
       "id": 136332742,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-05-09T13:45:24Z",
+      "open_issues": 6,
       "owner": "styfle",
       "repo": "awesome-desktop-js",
-      "stars": 870
+      "stars": 870,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "desktop",
+        "desktop-js",
+        "javascript"
+      ]
     },
     "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
     "enhanced_repository": "enhansome/enhansome-desktop-js",
