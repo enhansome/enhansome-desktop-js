@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-30T10:03:27Z",
-                "open_issues": 753,
+                "last_commit": "2026-08-31T14:52:01Z",
+                "open_issues": 751,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122800,
+                "stars": 122822,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 905,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41161,
+                "stars": 41160,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T00:44:55Z",
+                "last_commit": "2026-08-31T00:45:49Z",
                 "open_issues": 180,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8617,
+                "stars": 8618,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:31:08Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7597,
+                "stars": 7608,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -195,11 +195,11 @@
                 "id": 279089942,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T07:23:34Z",
-                "open_issues": 180,
+                "last_commit": "2026-08-31T09:19:42Z",
+                "open_issues": 179,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4936,
+                "stars": 4937,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10884,
+                "stars": 10882,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -485,7 +485,7 @@
                 "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9227,
+                "stars": 9228,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -567,7 +567,7 @@
                 "open_issues": 169,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18897,
+                "stars": 18898,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6780,
+            "stars": 6781,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:49:06.396Z",
+    "last_updated": "2026-08-31T15:02:24.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
