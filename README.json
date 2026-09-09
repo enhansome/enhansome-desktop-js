@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-08T11:05:37Z",
-                "open_issues": 753,
+                "last_commit": "2026-09-09T11:41:53Z",
+                "open_issues": 768,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122938,
+                "stars": 122956,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 911,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41160,
+                "stars": 41162,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T07:37:02Z",
-                "open_issues": 177,
+                "last_commit": "2026-09-09T08:34:15Z",
+                "open_issues": 179,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8633,
+                "stars": 8632,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T21:24:34Z",
-                "open_issues": 164,
+                "open_issues": 160,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7635,
+                "stars": 7637,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -196,7 +196,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T03:54:10Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "tauri-apps",
                 "repo": "wry",
                 "stars": 4953,
@@ -220,7 +220,7 @@
                 "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4396,
+                "stars": 4397,
                 "topics": [
                   "desktop",
                   "electron",
@@ -277,7 +277,7 @@
                 "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1591,
+                "stars": 1592,
                 "topics": [
                   "deno",
                   "deno-bindings",
@@ -309,7 +309,7 @@
                 "open_issues": 2,
                 "owner": "cztomsik",
                 "repo": "graffiti",
-                "stars": 932,
+                "stars": 933,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -430,7 +430,7 @@
                 "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1872,
+                "stars": 1871,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10880,
+                "stars": 10878,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -485,7 +485,7 @@
                 "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9227,
+                "stars": 9229,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -567,7 +567,7 @@
                 "open_issues": 174,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18905,
+                "stars": 18906,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -588,7 +588,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3611,
+                "stars": 3610,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6783,
+            "stars": 6782,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -641,7 +641,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "trayballoon",
-            "stars": 162,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -731,7 +731,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24345,
+            "stars": 24343,
             "topics": [
               "binaries",
               "cli",
@@ -757,7 +757,7 @@
             "open_issues": 164,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13573,
+            "stars": 13572,
             "topics": [
               "binaries",
               "binary",
@@ -816,7 +816,7 @@
             "open_issues": 100,
             "owner": "pmq20",
             "repo": "node-packer",
-            "stars": 3065,
+            "stars": 3064,
             "topics": [
               "enclose-io",
               "libsquash",
@@ -845,7 +845,7 @@
             "open_issues": 11,
             "owner": "igorklopov",
             "repo": "enclose",
-            "stars": 934,
+            "stars": 932,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -866,7 +866,7 @@
             "open_issues": 0,
             "owner": "leafac",
             "repo": "caxa",
-            "stars": 699,
+            "stars": 698,
             "topics": [
               "linux",
               "macos",
@@ -966,7 +966,7 @@
             "open_issues": 0,
             "owner": "imlucas",
             "repo": "lone",
-            "stars": 50,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:06:42.310Z",
+    "last_updated": "2026-09-09T12:18:19.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
