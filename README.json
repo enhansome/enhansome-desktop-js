@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-09T11:41:53Z",
-                "open_issues": 768,
+                "last_commit": "2026-09-10T11:04:58Z",
+                "open_issues": 755,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122956,
+                "stars": 122974,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -48,7 +48,7 @@
                 "id": 3100121,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-19T04:08:07Z",
+                "last_commit": "2026-09-10T03:07:44Z",
                 "open_issues": 911,
                 "owner": "nwjs",
                 "repo": "nw.js",
@@ -104,7 +104,7 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T08:34:15Z",
+                "last_commit": "2026-09-10T00:39:37Z",
                 "open_issues": 179,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T21:24:34Z",
-                "open_issues": 160,
+                "open_issues": 161,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7637,
+                "stars": 7648,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -196,10 +196,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T03:54:10Z",
-                "open_issues": 183,
+                "open_issues": 185,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4953,
+                "stars": 4954,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -404,7 +404,7 @@
                 "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6050,
+                "stars": 6049,
                 "topics": [
                   "desktop",
                   "libui",
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10878,
+                "stars": 10877,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -563,8 +563,8 @@
                 "id": 18503721,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-04T12:57:32Z",
-                "open_issues": 174,
+                "last_commit": "2026-09-09T16:13:49Z",
+                "open_issues": 172,
                 "owner": "react",
                 "repo": "yoga",
                 "stars": 18906,
@@ -620,7 +620,7 @@
             "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6782,
+            "stars": 6781,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -731,7 +731,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24343,
+            "stars": 24342,
             "topics": [
               "binaries",
               "cli",
@@ -757,7 +757,7 @@
             "open_issues": 164,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13572,
+            "stars": 13571,
             "topics": [
               "binaries",
               "binary",
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:18:19.906Z",
+    "last_updated": "2026-09-10T12:12:13.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
