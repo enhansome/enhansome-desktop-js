@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:23:16Z",
-                "open_issues": 765,
+                "last_commit": "2026-09-19T04:59:21Z",
+                "open_issues": 769,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123131,
+                "stars": 123151,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -49,7 +49,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-13T22:45:01Z",
-                "open_issues": 914,
+                "open_issues": 913,
                 "owner": "nwjs",
                 "repo": "nw.js",
                 "stars": 41167,
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T00:41:28Z",
-                "open_issues": 185,
+                "last_commit": "2026-09-19T00:40:00Z",
+                "open_issues": 187,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8639,
+                "stars": 8642,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T20:31:25Z",
-                "open_issues": 165,
+                "open_issues": 168,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7682,
+                "stars": 7689,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -199,7 +199,7 @@
                 "open_issues": 201,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4965,
+                "stars": 4966,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -731,7 +731,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24341,
+            "stars": 24340,
             "topics": [
               "binaries",
               "cli",
@@ -788,7 +788,7 @@
             "open_issues": 16,
             "owner": "NerdLang",
             "repo": "nerd",
-            "stars": 3610,
+            "stars": 3611,
             "topics": [
               "arduino",
               "compilation",
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:12:17.167Z",
+    "last_updated": "2026-09-19T11:54:24.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
