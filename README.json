@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-21T13:00:19Z",
-                "open_issues": 761,
+                "last_commit": "2026-09-22T06:22:20Z",
+                "open_issues": 753,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123185,
+                "stars": 123191,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -48,11 +48,11 @@
                 "id": 3100121,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T02:14:47Z",
-                "open_issues": 914,
+                "last_commit": "2026-09-21T21:48:50Z",
+                "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41167,
+                "stars": 41166,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T00:44:56Z",
+                "last_commit": "2026-09-22T00:41:09Z",
                 "open_issues": 187,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8640,
+                "stars": 8641,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -141,7 +141,7 @@
                 "open_issues": 179,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7695,
+                "stars": 7698,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -162,7 +162,7 @@
                 "open_issues": 282,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5013,
+                "stars": 5012,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -195,11 +195,11 @@
                 "id": 279089942,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T03:01:54Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-22T09:44:59Z",
+                "open_issues": 204,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4967,
+                "stars": 4968,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -567,7 +567,7 @@
                 "open_issues": 170,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18914,
+                "stars": 18912,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -588,7 +588,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3610,
+                "stars": 3609,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -757,7 +757,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13568,
+            "stars": 13569,
             "topics": [
               "binaries",
               "binary",
@@ -894,7 +894,7 @@
             "open_issues": 4,
             "owner": "mongodb-js",
             "repo": "boxednode",
-            "stars": 657,
+            "stars": 658,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:00:19.677Z",
+    "last_updated": "2026-09-22T12:33:32.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
