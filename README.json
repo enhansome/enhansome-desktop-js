@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:08:52Z",
-                "open_issues": 710,
+                "last_commit": "2026-10-02T13:47:30Z",
+                "open_issues": 717,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123365,
+                "stars": 123355,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T00:51:02Z",
-                "open_issues": 189,
+                "last_commit": "2026-10-02T00:44:17Z",
+                "open_issues": 188,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8661,
+                "stars": 8663,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:10:21Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-02T13:45:27Z",
+                "open_issues": 195,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7734,
+                "stars": 7737,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -199,7 +199,7 @@
                 "open_issues": 209,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4982,
+                "stars": 4984,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -563,7 +563,7 @@
                 "id": 18503721,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-28T16:57:47Z",
+                "last_commit": "2026-10-01T14:34:10Z",
                 "open_issues": 174,
                 "owner": "react",
                 "repo": "yoga",
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:25:12.310Z",
+    "last_updated": "2026-10-02T13:48:29.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
