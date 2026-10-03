@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T13:47:30Z",
-                "open_issues": 719,
+                "open_issues": 722,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123357,
+                "stars": 123368,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -137,8 +137,8 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:18:31Z",
-                "open_issues": 184,
+                "last_commit": "2026-10-03T10:08:50Z",
+                "open_issues": 186,
                 "owner": "vercel-labs",
                 "repo": "native",
                 "stars": 7737,
@@ -199,7 +199,7 @@
                 "open_issues": 209,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4986,
+                "stars": 4987,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -567,7 +567,7 @@
                 "open_issues": 174,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18917,
+                "stars": 18918,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6780,
+            "stars": 6779,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:14.669Z",
+    "last_updated": "2026-10-03T12:28:12.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
