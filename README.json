@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-05T23:21:36Z",
-                "open_issues": 717,
+                "last_commit": "2026-10-06T13:00:16Z",
+                "open_issues": 718,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123406,
+                "stars": 123409,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41150,
+                "stars": 41149,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:27:38Z",
-                "open_issues": 184,
+                "last_commit": "2026-10-06T13:53:57Z",
+                "open_issues": 183,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7749,
+                "stars": 7750,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -162,7 +162,7 @@
                 "open_issues": 282,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5020,
+                "stars": 5019,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -757,7 +757,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13565,
+            "stars": 13566,
             "topics": [
               "binaries",
               "binary",
@@ -788,7 +788,7 @@
             "open_issues": 16,
             "owner": "NerdLang",
             "repo": "nerd",
-            "stars": 3609,
+            "stars": 3608,
             "topics": [
               "arduino",
               "compilation",
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:14.156Z",
+    "last_updated": "2026-10-06T14:08:16.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
