@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-07T13:47:45Z",
-                "open_issues": 723,
+                "last_commit": "2026-10-08T14:31:47Z",
+                "open_issues": 746,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123412,
+                "stars": 123437,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41147,
+                "stars": 41146,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,7 +104,7 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T00:45:41Z",
+                "last_commit": "2026-10-08T00:45:15Z",
                 "open_issues": 189,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:23:39Z",
+                "last_commit": "2026-10-08T13:34:27Z",
                 "open_issues": 183,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7751,
+                "stars": 7756,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -195,11 +195,11 @@
                 "id": 279089942,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T11:25:25Z",
-                "open_issues": 215,
+                "last_commit": "2026-10-08T12:28:58Z",
+                "open_issues": 214,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 4991,
+                "stars": 4994,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -220,7 +220,7 @@
                 "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4397,
+                "stars": 4396,
                 "topics": [
                   "desktop",
                   "electron",
@@ -277,7 +277,7 @@
                 "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1592,
+                "stars": 1593,
                 "topics": [
                   "deno",
                   "deno-bindings",
@@ -482,7 +482,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
                 "stars": 9232,
@@ -567,7 +567,7 @@
                 "open_issues": 175,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18917,
+                "stars": 18919,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -687,27 +687,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xtray",
-          "description": "create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "macOS tray icon helper for Go",
-            "homepage": null,
-            "id": 39661529,
-            "language": "Objective-C",
-            "license": "MIT",
-            "last_commit": "2025-07-25T06:05:03Z",
-            "open_issues": 0,
-            "owner": "tetsuo",
-            "repo": "xtray",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:24:11.350Z"
         }
       ],
       "title": "System Tray"
@@ -731,7 +710,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24328,
+            "stars": 24325,
             "topics": [
               "binaries",
               "cli",
@@ -757,7 +736,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13565,
+            "stars": 13566,
             "topics": [
               "binaries",
               "binary",
@@ -894,7 +873,7 @@
             "open_issues": 4,
             "owner": "mongodb-js",
             "repo": "boxednode",
-            "stars": 658,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -976,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:27:03.548Z",
+    "last_updated": "2026-10-08T14:32:14.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
