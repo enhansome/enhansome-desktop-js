@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:39:12Z",
-                "open_issues": 741,
+                "last_commit": "2026-10-19T14:33:24Z",
+                "open_issues": 747,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123380,
+                "stars": 123407,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 913,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41138,
+                "stars": 41140,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T00:42:42Z",
+                "last_commit": "2026-10-19T00:42:43Z",
                 "open_issues": 196,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8671,
+                "stars": 8672,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T10:39:49Z",
+                "last_commit": "2026-10-19T01:44:47Z",
                 "open_issues": 184,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7782,
+                "stars": 7787,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -195,11 +195,11 @@
                 "id": 279089942,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:07:25Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-19T14:16:09Z",
+                "open_issues": 219,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5015,
+                "stars": 5019,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -563,8 +563,8 @@
                 "id": 18503721,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T03:39:35Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-19T13:02:04Z",
+                "open_issues": 168,
                 "owner": "react",
                 "repo": "yoga",
                 "stars": 18929,
@@ -588,7 +588,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -617,7 +617,7 @@
             "language": "TypeScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-30T13:59:13Z",
-            "open_issues": 76,
+            "open_issues": 73,
             "owner": "max-mapper",
             "repo": "menubar",
             "stars": 6782,
@@ -736,7 +736,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13568,
+            "stars": 13569,
             "topics": [
               "binaries",
               "binary",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:01:38.373Z",
+    "last_updated": "2026-10-19T14:37:00.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
