@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-21T07:18:19Z",
-                "open_issues": 751,
+                "last_commit": "2026-10-22T05:05:50Z",
+                "open_issues": 744,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123447,
+                "stars": 123470,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -48,11 +48,11 @@
                 "id": 3100121,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:44:05Z",
-                "open_issues": 913,
+                "last_commit": "2026-10-21T23:26:58Z",
+                "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41143,
+                "stars": 41141,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -87,7 +87,7 @@
                 "open_issues": 57,
                 "owner": "GoogleChromeLabs",
                 "repo": "carlo",
-                "stars": 9246,
+                "stars": 9244,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T00:38:22Z",
+                "last_commit": "2026-10-22T00:39:02Z",
                 "open_issues": 198,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8674,
+                "stars": 8672,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T00:51:35Z",
-                "open_issues": 189,
+                "open_issues": 179,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7800,
+                "stars": 7805,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -162,7 +162,7 @@
                 "open_issues": 282,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5026,
+                "stars": 5024,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -196,10 +196,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:02:55Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5022,
+                "stars": 5023,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10870,
+                "stars": 10869,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -485,7 +485,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9233,
+                "stars": 9231,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -588,7 +588,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3612,
+                "stars": 3611,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 73,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6782,
+            "stars": 6781,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -710,7 +710,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24320,
+            "stars": 24319,
             "topics": [
               "binaries",
               "cli",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:53:00.282Z",
+    "last_updated": "2026-10-22T12:55:40.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
