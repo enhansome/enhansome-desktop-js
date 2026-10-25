@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-24T07:31:18Z",
-                "open_issues": 753,
+                "last_commit": "2026-10-25T03:36:29Z",
+                "open_issues": 761,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123515,
+                "stars": 123536,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41142,
+                "stars": 41144,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -104,7 +104,7 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T00:37:23Z",
+                "last_commit": "2026-10-25T00:42:08Z",
                 "open_issues": 198,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
@@ -138,10 +138,31 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T00:51:35Z",
-                "open_issues": 181,
+                "open_issues": 183,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7808,
+                "stars": 7809,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:24:11.350Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tauri",
+              "description": "a runtime using the system's native webview with Rust backend (Windows, macOS, Linux)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform WebView library in Rust for Tauri.",
+                "homepage": null,
+                "id": 279089942,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-23T18:22:15Z",
+                "open_issues": 219,
+                "owner": "tauri-apps",
+                "repo": "wry",
+                "stars": 5028,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -162,7 +183,7 @@
                 "open_issues": 282,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5024,
+                "stars": 5027,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -185,27 +206,6 @@
             },
             {
               "node_type": "item",
-              "title": "Tauri",
-              "description": "a runtime using the system's native webview with Rust backend (Windows, macOS, Linux)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cross-platform WebView library in Rust for Tauri.",
-                "homepage": null,
-                "id": 279089942,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-23T18:22:15Z",
-                "open_issues": 219,
-                "owner": "tauri-apps",
-                "repo": "wry",
-                "stars": 5024,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:24:11.350Z"
-            },
-            {
-              "node_type": "item",
               "title": "Electrino",
               "description": "a runtime to build desktop apps using the system's own web browser (macOS only)",
               "children": [],
@@ -220,7 +220,7 @@
                 "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4394,
+                "stars": 4395,
                 "topics": [
                   "desktop",
                   "electron",
@@ -248,7 +248,7 @@
                 "open_issues": 58,
                 "owner": "wan9chi",
                 "repo": "DeskGap",
-                "stars": 1811,
+                "stars": 1810,
                 "topics": [
                   "cpp",
                   "javascript",
@@ -330,7 +330,7 @@
                 "open_issues": 13,
                 "owner": "HackPlan",
                 "repo": "quark-shell-mac",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "mac",
                   "menubar",
@@ -404,7 +404,7 @@
                 "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6044,
+                "stars": 6045,
                 "topics": [
                   "desktop",
                   "libui",
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10870,
+                "stars": 10871,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -485,7 +485,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9232,
+                "stars": 9234,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -567,7 +567,7 @@
                 "open_issues": 159,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18931,
+                "stars": 18935,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 73,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6781,
+            "stars": 6780,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -736,7 +736,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13570,
+            "stars": 13571,
             "topics": [
               "binaries",
               "binary",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:57:45.604Z",
+    "last_updated": "2026-10-25T12:31:33.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
