@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:02:35Z",
-                "open_issues": 782,
+                "last_commit": "2026-10-30T13:55:17Z",
+                "open_issues": 784,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123618,
+                "stars": 123649,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -87,7 +87,7 @@
                 "open_issues": 57,
                 "owner": "GoogleChromeLabs",
                 "repo": "carlo",
-                "stars": 9243,
+                "stars": 9242,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -104,8 +104,8 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T12:16:16Z",
-                "open_issues": 144,
+                "last_commit": "2026-10-30T00:31:52Z",
+                "open_issues": 129,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
                 "stars": 8676,
@@ -138,10 +138,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T00:51:35Z",
-                "open_issues": 184,
+                "open_issues": 180,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7819,
+                "stars": 7820,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -309,7 +309,7 @@
                 "open_issues": 2,
                 "owner": "cztomsik",
                 "repo": "graffiti",
-                "stars": 933,
+                "stars": 932,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -330,7 +330,7 @@
                 "open_issues": 13,
                 "owner": "HackPlan",
                 "repo": "quark-shell-mac",
-                "stars": 911,
+                "stars": 910,
                 "topics": [
                   "mac",
                   "menubar",
@@ -563,11 +563,11 @@
                 "id": 18503721,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:43:02Z",
-                "open_issues": 159,
+                "last_commit": "2026-10-29T18:31:09Z",
+                "open_issues": 160,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18938,
+                "stars": 18937,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -620,7 +620,7 @@
             "open_issues": 73,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6780,
+            "stars": 6781,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:11.350Z"
@@ -710,7 +710,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24314,
+            "stars": 24313,
             "topics": [
               "binaries",
               "cli",
@@ -736,7 +736,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13571,
+            "stars": 13570,
             "topics": [
               "binaries",
               "binary",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:10:53.660Z",
+    "last_updated": "2026-10-30T14:02:56.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
