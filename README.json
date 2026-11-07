@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T14:00:31Z",
-                "open_issues": 787,
+                "last_commit": "2026-11-07T13:00:49Z",
+                "open_issues": 776,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123805,
+                "stars": 123816,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -52,7 +52,7 @@
                 "open_issues": 915,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41143,
+                "stars": 41145,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -87,7 +87,7 @@
                 "open_issues": 57,
                 "owner": "GoogleChromeLabs",
                 "repo": "carlo",
-                "stars": 9239,
+                "stars": 9238,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T23:41:34Z",
+                "last_commit": "2026-11-06T18:33:33Z",
                 "open_issues": 171,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7833,
+                "stars": 7835,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -162,7 +162,7 @@
                 "open_issues": 211,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5041,
+                "stars": 5042,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -183,7 +183,7 @@
                 "open_issues": 280,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5028,
+                "stars": 5027,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -485,7 +485,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9238,
+                "stars": 9237,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -564,7 +564,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-05T18:02:39Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "react",
                 "repo": "yoga",
                 "stars": 18945,
@@ -710,7 +710,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24301,
+            "stars": 24300,
             "topics": [
               "binaries",
               "cli",
@@ -736,7 +736,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13567,
+            "stars": 13566,
             "topics": [
               "binaries",
               "binary",
@@ -767,7 +767,7 @@
             "open_issues": 16,
             "owner": "NerdLang",
             "repo": "nerd",
-            "stars": 3602,
+            "stars": 3601,
             "topics": [
               "arduino",
               "compilation",
@@ -795,7 +795,7 @@
             "open_issues": 100,
             "owner": "pmq20",
             "repo": "node-packer",
-            "stars": 3062,
+            "stars": 3061,
             "topics": [
               "enclose-io",
               "libsquash",
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:57:31.980Z",
+    "last_updated": "2026-11-07T13:55:55.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
