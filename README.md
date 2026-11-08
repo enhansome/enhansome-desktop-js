@@ -14,22 +14,22 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Chrome
 
-* [Electron](https://github.com/electron/electron) ⭐ 123,816 | 🐛 776 | 🌐 C++ | 📅 2026-11-07 - a Node.js and Chromium runtime to build cross platform desktop apps
-* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,145 | 🐛 915 | 🌐 JavaScript | 📅 2026-11-03 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [Electron](https://github.com/electron/electron) ⭐ 123,828 | 🐛 782 | 🌐 C++ | 📅 2026-11-08 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,146 | 🐛 915 | 🌐 JavaScript | 📅 2026-11-08 - a Node.js and Chromium runtime to build cross platform desktop apps
 
 ### Web
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo) ⚠️ Archived - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,684 | 🐛 132 | 🌐 C | 📅 2026-11-05 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
-* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,835 | 🐛 171 | 🌐 Zig | 📅 2026-11-06 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
-* [Tauri](https://tauri.app/) - a runtime using the system's native [webview](https://github.com/tauri-apps/wry) ⭐ 5,042 | 🐛 211 | 🌐 Rust | 📅 2026-11-06 with Rust backend (Windows, macOS, Linux)
-* [Ultralight](https://github.com/ultralight-ux/Ultralight) ⭐ 5,027 | 🐛 280 | 🌐 CMake | 📅 2024-04-22 - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,686 | 🐛 132 | 🌐 C | 📅 2026-11-05 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
+* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,837 | 🐛 171 | 🌐 Zig | 📅 2026-11-06 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
+* [Tauri](https://tauri.app/) - a runtime using the system's native [webview](https://github.com/tauri-apps/wry) ⭐ 5,043 | 🐛 214 | 🌐 Rust | 📅 2026-11-06 with Rust backend (Windows, macOS, Linux)
+* [Ultralight](https://github.com/ultralight-ux/Ultralight) ⭐ 5,028 | 🐛 280 | 🌐 CMake | 📅 2024-04-22 - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
 * [Electrino](https://github.com/pojala/electrino) ⭐ 4,392 | 🐛 21 | 🌐 C# | 📅 2022-12-07 - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [DeskGap](https://github.com/patr0nus/DeskGap) ⚠️ Archived - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
-* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,590 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 108,909 | 🐛 1,700 | 🌐 Rust | 📅 2026-10-29 bindings for
-  [webview](https://github.com/zserge/webview) ⭐ 14,338 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 using the
+* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,590 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 108,918 | 🐛 1,709 | 🌐 Rust | 📅 2026-10-29 bindings for
+  [webview](https://github.com/zserge/webview) ⭐ 14,339 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 using the
   [webview rust bindings](https://github.com/Boscop/web-view) ⭐ 1,951 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09. Currently supports Linux & Windows.
-* [graffiti](https://github.com/cztomsik/graffiti) ⭐ 932 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) ⭐ 3,378 | 🐛 192 | 🌐 Rust | 📅 2026-11-01 (Linux, macOS, and Windows)
+* [graffiti](https://github.com/cztomsik/graffiti) ⭐ 932 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) ⭐ 3,379 | 🐛 192 | 🌐 Rust | 📅 2026-11-08 (Linux, macOS, and Windows)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) ⭐ 909 | 🐛 13 | 🌐 Objective-C | 📅 2020-04-15 - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [azula](https://github.com/maierfelix/azula) ⭐ 316 | 🐛 4 | 🌐 C | 📅 2019-10-20 - a GPU accelerated HTML GUI for native JavaScript applications (Windows only, based on Ultralight)
 * [Quark](https://github.com/jscherer92/Quark) ⭐ 271 | 🐛 6 | 🌐 C++ | 📅 2020-01-07 - a runtime to build desktop apps using the system's own web browser (Windows only)
@@ -52,7 +52,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Flexbox
 
-* [Yoga](https://github.com/facebook/yoga) ⭐ 18,945 | 🐛 172 | 🌐 C++ | 📅 2026-11-05 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
+* [Yoga](https://github.com/facebook/yoga) ⭐ 18,946 | 🐛 173 | 🌐 C++ | 📅 2026-11-05 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
 * [Yue](https://github.com/yue/yue) ⭐ 3,613 | 🐛 13 | 🌐 C++ | 📅 2025-01-24 - create cross platform desktop apps with Node.js and flexbox (via yoga)
 
 ## System Tray
@@ -66,7 +66,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 ## Packaging
 
 * [pkg](https://github.com/vercel/pkg) ⚠️ Archived - a cli which compiles your Node.js app into a single executable
-* [nexe](https://github.com/nexe/nexe) ⭐ 13,566 | 🐛 163 | 🌐 TypeScript | 📅 2026-03-05 - a cli which compiles your Node.js app into a single executable
+* [nexe](https://github.com/nexe/nexe) ⭐ 13,565 | 🐛 163 | 🌐 TypeScript | 📅 2026-03-05 - a cli which compiles your Node.js app into a single executable
 * [nectarjs](https://github.com/NectarJS/nectarjs) ⭐ 3,601 | 🐛 16 | 🌐 C++ | 📅 2023-01-25 - a cli which compiles your Node.js app into a single executable (Linux, Windows, WebAssembly, Arduino)
 * [node-packer](https://github.com/pmq20/node-packer) ⭐ 3,061 | 🐛 100 | 🌐 C++ | 📅 2023-01-07 - a cli which compiles your Node.js app into a single executable
 * [enclose](https://github.com/igorklopov/enclose) ⭐ 933 | 🐛 11 | 🌐 JavaScript | 📅 2017-08-24  - a cli which compiles your Node.js app into a single executable
@@ -84,4 +84,4 @@ To the extent possible under law, styfle has waived all copyright and related or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
