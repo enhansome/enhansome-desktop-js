@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-08T13:35:37Z",
-                "open_issues": 782,
+                "last_commit": "2026-11-09T16:33:01Z",
+                "open_issues": 779,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123828,
+                "stars": 123829,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -48,11 +48,11 @@
                 "id": 3100121,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T05:41:23Z",
-                "open_issues": 915,
+                "last_commit": "2026-11-08T17:36:50Z",
+                "open_issues": 913,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41146,
+                "stars": 41144,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -108,7 +108,7 @@
                 "open_issues": 132,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8686,
+                "stars": 8688,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:33:33Z",
+                "last_commit": "2026-11-09T16:54:59Z",
                 "open_issues": 171,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7837,
+                "stars": 7841,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -158,11 +158,11 @@
                 "id": 279089942,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T14:36:27Z",
-                "open_issues": 214,
+                "last_commit": "2026-11-09T15:49:59Z",
+                "open_issues": 211,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5043,
+                "stars": 5047,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -458,7 +458,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10865,
+                "stars": 10863,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -485,7 +485,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9237,
+                "stars": 9236,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -564,10 +564,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-05T18:02:39Z",
-                "open_issues": 173,
+                "open_issues": 174,
                 "owner": "react",
                 "repo": "yoga",
-                "stars": 18946,
+                "stars": 18948,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -588,7 +588,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3613,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:15:05.093Z",
+    "last_updated": "2026-11-09T17:24:24.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
