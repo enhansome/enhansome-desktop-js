@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-15T13:31:52Z",
-                "open_issues": 809,
+                "last_commit": "2026-11-16T16:41:58Z",
+                "open_issues": 803,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 123910,
+                "stars": 123924,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -108,7 +108,7 @@
                 "open_issues": 144,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8693,
+                "stars": 8692,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -159,10 +159,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T02:10:14Z",
-                "open_issues": 212,
+                "open_issues": 214,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5057,
+                "stars": 5060,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -183,7 +183,7 @@
                 "open_issues": 280,
                 "owner": "ultralight-ux",
                 "repo": "Ultralight",
-                "stars": 5030,
+                "stars": 5031,
                 "topics": [
                   "cross-platform",
                   "desktop-apps",
@@ -485,7 +485,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9236,
+                "stars": 9235,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -870,7 +870,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-08T22:13:54Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "mongodb-js",
             "repo": "boxednode",
             "stars": 658,
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:41:56.559Z",
+    "last_updated": "2026-11-16T16:56:45.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
