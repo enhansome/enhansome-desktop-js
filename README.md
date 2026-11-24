@@ -14,22 +14,22 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Chrome
 
-* [Electron](https://github.com/electron/electron) ⭐ 124,066 | 🐛 799 | 🌐 C++ | 📅 2026-11-23 - a Node.js and Chromium runtime to build cross platform desktop apps
-* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,141 | 🐛 914 | 🌐 JavaScript | 📅 2026-11-23 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [Electron](https://github.com/electron/electron) ⭐ 124,070 | 🐛 798 | 🌐 C++ | 📅 2026-11-24 - a Node.js and Chromium runtime to build cross platform desktop apps
+* [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,139 | 🐛 914 | 🌐 JavaScript | 📅 2026-11-24 - a Node.js and Chromium runtime to build cross platform desktop apps
 
 ### Web
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo) ⚠️ Archived - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,696 | 🐛 143 | 🌐 C | 📅 2026-11-20 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
-* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,854 | 🐛 170 | 🌐 Zig | 📅 2026-11-11 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
-* [Tauri](https://tauri.app/) - a runtime using the system's native [webview](https://github.com/tauri-apps/wry) ⭐ 5,069 | 🐛 218 | 🌐 Rust | 📅 2026-11-23 with Rust backend (Windows, macOS, Linux)
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) ⭐ 8,698 | 🐛 143 | 🌐 C | 📅 2026-11-20 - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
+* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,855 | 🐛 179 | 🌐 Zig | 📅 2026-11-24 - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
+* [Tauri](https://tauri.app/) - a runtime using the system's native [webview](https://github.com/tauri-apps/wry) ⭐ 5,071 | 🐛 216 | 🌐 Rust | 📅 2026-11-24 with Rust backend (Windows, macOS, Linux)
 * [Ultralight](https://github.com/ultralight-ux/Ultralight) ⭐ 5,036 | 🐛 281 | 🌐 CMake | 📅 2024-04-22 - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
 * [Electrino](https://github.com/pojala/electrino) ⭐ 4,392 | 🐛 21 | 🌐 C# | 📅 2022-12-07 - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [DeskGap](https://github.com/patr0nus/DeskGap) ⚠️ Archived - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
-* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,590 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 109,010 | 🐛 1,755 | 🌐 Rust | 📅 2026-11-17 bindings for
-  [webview](https://github.com/zserge/webview) ⭐ 14,342 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 using the
+* [deno\_webview](https://github.com/eliassjogreen/deno_webview) ⭐ 1,590 | 🐛 43 | 🌐 TypeScript | 📅 2025-02-25 - This project provides [deno](https://github.com/denoland/deno) ⭐ 108,977 | 🐛 1,752 | 🌐 Rust | 📅 2026-11-17 bindings for
+  [webview](https://github.com/zserge/webview) ⭐ 14,343 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 using the
   [webview rust bindings](https://github.com/Boscop/web-view) ⭐ 1,948 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09. Currently supports Linux & Windows.
-* [graffiti](https://github.com/cztomsik/graffiti) ⭐ 932 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) ⭐ 3,381 | 🐛 192 | 🌐 Rust | 📅 2026-11-22 (Linux, macOS, and Windows)
+* [graffiti](https://github.com/cztomsik/graffiti) ⭐ 933 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) ⭐ 3,382 | 🐛 193 | 🌐 Rust | 📅 2026-11-22 (Linux, macOS, and Windows)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) ⭐ 909 | 🐛 13 | 🌐 Objective-C | 📅 2020-04-15 - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [azula](https://github.com/maierfelix/azula) ⭐ 316 | 🐛 4 | 🌐 C | 📅 2019-10-20 - a GPU accelerated HTML GUI for native JavaScript applications (Windows only, based on Ultralight)
 * [Quark](https://github.com/jscherer92/Quark) ⭐ 271 | 🐛 6 | 🌐 C++ | 📅 2020-01-07 - a runtime to build desktop apps using the system's own web browser (Windows only)
@@ -40,7 +40,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### LibUI
 
-* [vuido](https://github.com/mimecorg/vuido) ⭐ 6,038 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-01 - a Vue.js environment to build cross platform native desktop apps
+* [vuido](https://github.com/mimecorg/vuido) ⭐ 6,037 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-01 - a Vue.js environment to build cross platform native desktop apps
 * [libui-node](https://github.com/parro-it/libui-node) ⭐ 1,873 | 🐛 41 | 🌐 C++ | 📅 2021-07-22 - Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.
 
 ### Qt
@@ -52,12 +52,12 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Flexbox
 
-* [Yoga](https://github.com/facebook/yoga) ⭐ 18,960 | 🐛 195 | 🌐 C++ | 📅 2026-11-23 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
+* [Yoga](https://github.com/facebook/yoga) ⭐ 18,961 | 🐛 194 | 🌐 C++ | 📅 2026-11-23 - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
 * [Yue](https://github.com/yue/yue) ⭐ 3,613 | 🐛 13 | 🌐 C++ | 📅 2025-01-24 - create cross platform desktop apps with Node.js and flexbox (via yoga)
 
 ## System Tray
 
-* [menubar](https://github.com/maxogden/menubar) ⭐ 6,785 | 🐛 73 | 🌐 TypeScript | 📅 2026-07-30 - easily create a menubar Electron app (macOS only)
+* [menubar](https://github.com/maxogden/menubar) ⭐ 6,784 | 🐛 73 | 🌐 TypeScript | 📅 2026-07-30 - easily create a menubar Electron app (macOS only)
 * [trayballoon](https://github.com/sindresorhus/trayballoon) ⭐ 161 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-17 - a system tray balloon on Windows
 * [positron-bar](https://github.com/ElessarWebb/positron-bar) ⭐ 57 | 🐛 4 | 🌐 JavaScript | 📅 2016-04-09 - Electron bar for (Linux only)
 * [systray2](https://github.com/felixhao28/node-systray) ⭐ 40 | 🐛 4 | 🌐 TypeScript | 📅 2023-05-16 - a system tray icon and menu (Windows, macOS, Linux)
@@ -84,4 +84,4 @@ To the extent possible under law, styfle has waived all copyright and related or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
