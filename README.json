@@ -17,11 +17,11 @@
                 "id": 9384267,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-26T16:53:35Z",
-                "open_issues": 799,
+                "last_commit": "2026-11-27T14:45:59Z",
+                "open_issues": 805,
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 124112,
+                "stars": 124143,
                 "topics": [
                   "c-plus-plus",
                   "chrome",
@@ -48,11 +48,11 @@
                 "id": 3100121,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T20:41:01Z",
+                "last_commit": "2026-11-26T20:50:45Z",
                 "open_issues": 914,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41140,
+                "stars": 41141,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -87,7 +87,7 @@
                 "open_issues": 57,
                 "owner": "GoogleChromeLabs",
                 "repo": "carlo",
-                "stars": 9235,
+                "stars": 9234,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -104,11 +104,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T15:29:16Z",
-                "open_issues": 144,
+                "last_commit": "2026-11-27T12:55:08Z",
+                "open_issues": 143,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8699,
+                "stars": 8700,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -137,11 +137,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T17:34:31Z",
-                "open_issues": 217,
+                "last_commit": "2026-11-27T17:23:15Z",
+                "open_issues": 190,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7858,
+                "stars": 7861,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -159,10 +159,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T11:07:42Z",
-                "open_issues": 203,
+                "open_issues": 204,
                 "owner": "tauri-apps",
                 "repo": "wry",
-                "stars": 5072,
+                "stars": 5075,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -277,7 +277,7 @@
                 "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1590,
+                "stars": 1589,
                 "topics": [
                   "deno",
                   "deno-bindings",
@@ -292,6 +292,27 @@
                 ]
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tinyjs",
+              "description": "a runtime to build desktop apps using txiki.js and the system's own webview (macOS, Windows, Linux) around 6MB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build native apps in JS. Backend, frontend. ~5Mb.",
+                "homepage": null,
+                "id": 1298525415,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-11-25T06:05:53Z",
+                "open_issues": 9,
+                "owner": "tarwin",
+                "repo": "tinyjsapp",
+                "stars": 1464,
+                "topics": []
+              },
+              "first_seen": "2026-11-27T17:24:54.233Z"
             },
             {
               "node_type": "item",
@@ -482,7 +503,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
-                "open_issues": 101,
+                "open_issues": 100,
                 "owner": "nodegui",
                 "repo": "nodegui",
                 "stars": 9236,
@@ -588,7 +609,7 @@
                 "open_issues": 13,
                 "owner": "yue",
                 "repo": "yue",
-                "stars": 3613,
+                "stars": 3614,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:11.350Z"
@@ -710,7 +731,7 @@
             "open_issues": 0,
             "owner": "vercel",
             "repo": "pkg",
-            "stars": 24291,
+            "stars": 24290,
             "topics": [
               "binaries",
               "cli",
@@ -736,7 +757,7 @@
             "open_issues": 163,
             "owner": "nexe",
             "repo": "nexe",
-            "stars": 13571,
+            "stars": 13572,
             "topics": [
               "binaries",
               "binary",
@@ -955,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:40:25.639Z",
+    "last_updated": "2026-11-27T17:24:54.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
@@ -963,8 +984,8 @@
       "id": 136332742,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-05-09T13:45:24Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-27T16:49:42Z",
+      "open_issues": 7,
       "owner": "styfle",
       "repo": "awesome-desktop-js",
       "stars": 874,
@@ -976,7 +997,7 @@
         "javascript"
       ]
     },
-    "original_repository_sha": "58668ce2e6f4efa7b4d530db0b61f357e00bbccc",
+    "original_repository_sha": "2d7ea8f6c6c6ec79c0c7ccfea68e4dddd0230428",
     "enhanced_repository": "enhansome/enhansome-desktop-js",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop JS with stars"
